@@ -1,0 +1,14 @@
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.AssemblyInfoInputs.cache
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.AssemblyInfo.cs
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\bin\Debug\net9.0\EntradaDeDatosPorConsola.exe
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\bin\Debug\net9.0\EntradaDeDatosPorConsola.deps.json
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\bin\Debug\net9.0\EntradaDeDatosPorConsola.runtimeconfig.json
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\bin\Debug\net9.0\EntradaDeDatosPorConsola.dll
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\bin\Debug\net9.0\EntradaDeDatosPorConsola.pdb
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.dll
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\refint\EntradaDeDatosPorConsola.dll
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.pdb
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\EntradaDeDatosPorConsola.genruntimeconfig.cache
+C:\Users\Equipo\Documents\Programación\FP DAM\Programación\EntradaDeDatosPorConsola\EntradaDeDatosPorConsola\obj\Debug\net9.0\ref\EntradaDeDatosPorConsola.dll
